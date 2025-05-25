@@ -49,6 +49,15 @@ A comprehensive full-stack MERN application for efficiently managing and trackin
 - **Modal Forms** - Streamlined data entry and editing experience
 - **Real-time Updates** - Immediate synchronization across all components
 
+### 🔍 Search & Discovery
+
+- **Real-time Search** - Instant search across connections and companies with debounced input
+- **Multi-field Search** - Search connections by name, email, phone, LinkedIn/GitHub usernames, and notes
+- **Company Search** - Find companies by name, industry, and website
+- **Search Filtering** - Filter results by type (All, Connections Only, Companies Only)
+- **Interactive Results** - Click search results to navigate directly to detailed views
+- **Smart Matching** - Case-insensitive partial matching for flexible search queries
+
 ### 🔍 Data Visualization & Navigation
 
 - **Detail Views** - Comprehensive connection and company profile pages
