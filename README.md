@@ -2,6 +2,17 @@
 
 A comprehensive full-stack MERN application for efficiently managing and tracking your professional and personal connections, companies, and employment positions. This modern web application provides a centralized, secure platform for organizing your professional network with rich relationship mapping and career timeline tracking.
 
+## ⚠️ Experimental Project Disclaimer
+
+**This is an experimental project** - the result of an experiment to understand whether "vibe coding" can be used to generate end-to-end web applications.
+
+**Important Notes:**
+
+- The bulk of this code is AI-generated
+- This code is **NOT optimized for production use**
+- This project serves as a proof-of-concept and learning exercise
+- Use at your own risk and review thoroughly before any production deployment
+
 ## 🚀 Technology Stack
 
 **Frontend**: React (v19.1.0), Bootstrap CSS, React Context API, Bootstrap Icons  
